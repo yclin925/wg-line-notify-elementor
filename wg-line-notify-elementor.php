@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: LINE Notify for Elementor Pro Form
- * Version: 0.1
+ * Version: 1.0
  * Description: This plugin send a message to LINE via LINE Notify when Elementor Pro Form send a mail.
  * Author: Chris Lin
  * Author URI: https://github.com/yclin925
