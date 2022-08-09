@@ -4,10 +4,13 @@
  * Version: 0.1
  * Description: This plugin send a message to LINE via LINE Notify when Elementor Pro Form send a mail.
  * Author: Chris Lin
- * Author URI: https://github.com/OsukeUesugi
- * Plugin URI: https://github.com/OsukeUesugi/cf7-line-notify
+ * Author URI: https://github.com/yclin925
+ * Plugin URI: https://github.com/yclin925
  * License: MIT
  */
+
+// Refer: https://github.com/OsukeUesugi/cf7-line-notify
+
 class Epf_Line_Notify
 {
   function __construct() {
